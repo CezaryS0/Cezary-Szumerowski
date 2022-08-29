@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cezary</h1>
-<h3 align="center">Hobbyist developer and a musician from Poland.</h3>
+<h3 align="center">Hobbyist software developer and a musician from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cezarys0&label=Profile%20views&color=0e75b6&style=flat" alt="cezarys0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cezarys0" alt="cezarys0" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [are here on github 😊.](are here on github 😊.)
 
 - 💬 Ask me about **anything. I am always open to conversations.**
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cezary szumerowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cezary szumerowski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cezary-szumerowski-45a857240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cezary-szumerowski-45a857240/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
