@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cezarys0" alt="cezarys0" /></a> </p>
 
-- 💬 Ask me about **anything. I am always open to conversations.**
+- 💬 Ask me about anything. I am always open to conversations.
 
-- 📫 How to reach me **cezary.szumerowski@gmail.com**
+- 📫 How to reach me cezary.szumerowski@gmail.com
 
-- ⚡ Fun fact **I turn coffee into code.**
+- ⚡ Fun fact I turn coffee into code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
