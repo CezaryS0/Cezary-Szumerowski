@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cezary</h1>
-<h3 align="center">Hobbyist software developer and a musician from Poland.</h3>
+<h3 align="center">Software developer and computer enthusiast from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cezarys0&label=Profile%20views&color=0e75b6&style=flat" alt="cezarys0" /> </p>
 
